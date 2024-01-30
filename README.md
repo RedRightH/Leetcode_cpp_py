@@ -3,3 +3,4 @@ This is a repository of the solutions to all the leetcode problems I have solved
 
 28th Jan - 2Sum 
 29th Jan - ContainerWithMostWater
+30th Jan - Longest Consecutive Sequence(cpp only)
